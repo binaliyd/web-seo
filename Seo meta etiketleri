@@ -1,0 +1,14 @@
+<meta name="description"
+        content="FIXERYACHT, uzman ekibi ve deneyimiyle, yat tamiratlarınızı güvenilir bir şekilde gerçekleştiriyor. Deniz araçlarınızın bakımı, onarımı ve restorasyonu konusundaki ihtiyaçlarınıza özel çözümler sunuyoruz. Teknolojiye dayalı yaklaşımımızla, yatlarınızı en yüksek standartlarda tamir ediyor ve özgün tasarımlarıyla öne çıkıyoruz. FIXERYACHT, denizcilik tutkunlarına mükemmel bir tamirat deneyimi vaat ediyor.">
+    <meta name="keywords"
+        content="FIXERYACHT, yat tamiratı, deniz aracı bakımı, yat restorasyonu, denizcilik hizmetleri, teknik destek, İstanbul yat tamiri, profesyonel yat bakımı, tekne onarımı, deniz aracı restore, İstanbul denizcilik, özel yat tamiri">
+    <!-- Open Graph Protocol Meta Etiketleri -->
+    <meta property="og:title" content="FIXERYACHT İstanbul - Yat Tamir ve Bakım">
+    <meta property="og:description"
+        content="İstanbul'da denizcilik sektöründe öncü tamir ve bakım hizmetleri sunan FIXERYACHT. Yatlarınızı güvenle tamir ediyor ve bakımını gerçekleştiriyoruz.">
+    <meta property="og:image" content="feature.png"> <!-- FIXERYACHT'ın öne çıkan bir görseli -->
+    <meta property="og:url" content="https://www.fixeryacht.com">
+    <meta property="og:type" content="website">
+    <!-- HTML sayfasında önbellek başlıkları -->
+    <meta http-equiv="Cache-Control" content="public, max-age=2592000">
+    <meta http-equiv="Expires" content="Mon, 1 Jan 2023 00:00:00 GMT">
